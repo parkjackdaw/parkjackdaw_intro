@@ -3,7 +3,9 @@ description: Initial page입니다.
 ---
 
 # Initial page
-
+<div class="intrinsic-container">
+  <iframe src="//www.youtube.com/embed/KMYrIi_Mt8A" allowfullscreen></iframe>
+</div>
 ㄹㄹㄹㄹㄹㄹㄹㄹㄹㄹ
 
 괜찮으면 제대로 
