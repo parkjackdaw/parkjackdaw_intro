@@ -17,6 +17,7 @@ description: 뭔지모르니까 일단 써놓고 볼게
     "plugins": ["youtube"]
 }
 ```
+{% youtube src="https://www.youtube.com/watch?v=9bZkp7q19f0" %}{% endyoutube %}
 
 You can now add YouTube videos to your book using this tag:
 
