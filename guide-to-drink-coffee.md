@@ -1,7 +1,3 @@
----
-description: dd
----
-
 # Guide to drink coffee
 
 ## Getting Super Powers

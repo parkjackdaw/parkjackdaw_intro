@@ -28,6 +28,8 @@ Take a look at this video:
 {% youtube src="https://www.youtube.com/watch?v=9bZkp7q19f0" %}{% endyoutube %}
 ```
 
+{% page-ref page="graphy-1.md" %}
+
 {% api-method method="get" host="https://youtu.be/5KC50y4ExBo" path="" %}
 {% api-method-summary %}
 타이틀 오브 메쏘드

@@ -5,5 +5,7 @@
 * [~~graphy](graphy.md)
 * [NAVER](https://www.naver.com)
 * [test](https://jackdaw.gitbook.com/intro/test.html)
-* [test(direct)](test.html)
-* [~~graphy](graphy.md)
+* [test\(direct\)](test-direct.md)
+* [~~graphy](graphy-1.md)
+* [Untitled](untitled.md)
+
