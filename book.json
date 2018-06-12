@@ -1,3 +1,12 @@
 {
     "plugins": ["iframely"]
 }
+
+
+{
+  "pluginsConfig": {
+    "iframely": {
+      "apiKey": "e4b50cf461f3b5edc3463f"
+    }
+  }
+}
