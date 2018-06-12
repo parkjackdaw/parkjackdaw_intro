@@ -9,6 +9,7 @@ description: 뭔지모르니까 일단 써놓고 볼게
 ### Fixed
 
 * Removed humans, they weren't doing fine with animals.
+{{ 'https://vimeo.com/31942602' | video }}
 ```text
 {% youtube src="https://www.youtube.com/watch?v=9bZkp7q19f0" %}{% endyoutube %}
 
