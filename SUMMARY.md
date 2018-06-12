@@ -5,4 +5,5 @@
 * [~~graphy](graphy.md)
 * [NAVER](ref://www.naver.com)
 * [test](ref://test.html)
+* [test(direct)](test.html)
 * [~~graphy](graphy.md)
