@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Home](README.md)
 * [Guide to drink coffee](guide-to-drink-coffee.md)
 * [~~graphy](graphy.md)
 * [NAVER](https://www.naver.com)
