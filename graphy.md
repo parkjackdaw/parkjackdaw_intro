@@ -4,9 +4,9 @@ description: 뭔지모르니까 일단 써놓고 볼게
 
 # Discography
 
-## 15.0.0 - 2042-12-03
+## Single - 2018-06-13
 
-### Fixed
+### Carry On - godo x jackdaw
 
 * Removed humans, they weren't doing fine with animals.
 
