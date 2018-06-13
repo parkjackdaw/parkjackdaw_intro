@@ -2,7 +2,7 @@
 description: 뭔지모르니까 일단 써놓고 볼게
 ---
 
-# ~~graphy
+# Discography
 
 ## 15.0.0 - 2042-12-03
 
