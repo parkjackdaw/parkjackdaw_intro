@@ -1,23 +1,18 @@
 # About
 
-## Getting Super Powers
+## ROOM502
 
-Becoming a super hero is a fairly straight forward process:
+![](.gitbook/assets/ddcover.jpg)
 
-```
-$ give me super-powers
-```
+ROOM502는고려대학교 흑인음악 동아리   
+TERRA를 모체로하는 공연 유닛입니다.  
+  
+힙합 장르를 기반으로하여 다채로운 사운드를 추구합니다.
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+## jackdaw
 
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
+짹잭도의 나이는 스물다섯입니다.  
+컴퓨터와 음악을 좋아합니다.
 
 
 
