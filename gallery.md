@@ -12,7 +12,7 @@
 
 ![](.gitbook/assets/2.jpeg)
 
-##  Scan Art
+##  Scan ETC
 
 ![](.gitbook/assets/2.png)
 
